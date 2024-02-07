@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Primeiro projeto</string>
+    <string name="bt_salvar">salvar Dados</string>
+</resources>
