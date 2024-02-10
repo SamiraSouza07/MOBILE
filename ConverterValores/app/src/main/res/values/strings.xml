@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConverterValores</string>
+    <string name="resultado">R$</string>
+</resources>
